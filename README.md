@@ -1,4 +1,6 @@
-# Fintech Sample 
+# Fintech Sample
+
+add image here
 
 ## Sub-Heading for acitivity
 
