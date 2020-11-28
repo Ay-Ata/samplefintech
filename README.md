@@ -1,5 +1,16 @@
 # samplefintech
 
-hello this is a test 
+## sub-heading
 
-Helloo, today is Saturday. it is the last week od November.
+### sub-sub-heading
+Hello we are testing.
+
+Hello we are testing.
+
+We are working with md.
+
+- First
+- Second
+- Third
+    - sublist
+    - sublist1
