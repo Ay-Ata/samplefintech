@@ -1,19 +1,14 @@
-# samplefintech
+# Fintech Sample 
 
-## sub-heading
+## Sub-Heading for acitivity
 
-### sub-sub-heading
-Hello we are testing.
+Hello, my name is **Ayca**. 
 
-Hello we are **testing**. make it bold
-Hello we are *testing*. italic
+### Table of contents
 
-Hello we are testing.
-
-We are working with md.
-
-- First
-- Second
-- Third
-    - sublist
-    - sublist1
+- Item1
+- Item2
+- Item3
+    - 3ASub-point
+    - 3B
+    
