@@ -4,7 +4,7 @@ add image here
 
 ## Sub-Heading for acitivity
 
-Hello, my name is **Ayca**. 
+Hello, my name is **name here**. 
 
 ### Table of contents
 
